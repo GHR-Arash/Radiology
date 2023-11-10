@@ -1,0 +1,84 @@
+{
+  "Radiology": {
+    "X-rays": {
+      "Fracture Detection": {},
+      "Chest Radiography": {
+        "Lung Diseases": {},
+        "Heart Size and Shape Assessment": {}
+      },
+      "Dental Imaging": {},
+      "Barium Studies": {
+        "Gastrointestinal Tract Examination": {}
+      }
+    },
+    "Computed Tomography (CT)": {
+      "Cancer Detection": {},
+      "Internal Injury Assessment": {},
+      "Brain Abnormalities": {},
+      "Vascular Diseases": {
+        "Pulmonary Embolisms": {},
+        "Aortic Aneurysms": {}
+      },
+      "3D Reconstruction for Surgical Planning": {}
+    },
+    "Magnetic Resonance Imaging (MRI)": {
+      "Brain and Spinal Cord Imaging": {},
+      "Musculoskeletal Disorders": {},
+      "Soft Tissue Evaluation": {},
+      "Functional MRI for Brain Activity Mapping": {},
+      "Cardiac MRI for Heart Conditions": {}
+    },
+    "Ultrasound": {
+      "Pregnancy and Obstetrics": {},
+      "Organ Functionality": {},
+      "Blood Flow and Vascular Studies": {},
+      "Musculoskeletal Injuries": {},
+      "Pediatric Imaging": {}
+    },
+    "Positron Emission Tomography (PET)": {
+      "Cancer Metabolism and Staging": {},
+      "Neurological Disorders": {
+        "Alzheimer’s Disease": {},
+        "Epilepsy": {}
+      },
+      "Cardiac Functionality": {},
+      "Inflammation and Infection Imaging": {}
+    },
+    "Nuclear Medicine Imaging": {
+      "Thyroid Disorders": {},
+      "Bone Scans": {
+        "Cancer Metastasis Detection": {}
+      },
+      "Functional Cardiac Assessment": {},
+      "Renal Function Studies": {}
+    },
+    "Mammography": {
+      "Breast Cancer Screening": {},
+      "Diagnostic Imaging for Breast Conditions": {},
+      "Digital Tomosynthesis": {}
+    },
+    "Fluoroscopy": {
+      "Gastrointestinal Tract Imaging": {},
+      "Angiography": {},
+      "Guided Therapeutic Procedures": {},
+      "Dynamic Movement Studies": {}
+    },
+    "Interventional Radiology": {
+      "Angioplasty and Stent Placement": {},
+      "Tumor Embolization": {},
+      "Biopsies and Drainages": {},
+      "Varicose Vein Treatments": {}
+    },
+    "Radiography": {
+      "Orthopedic Imaging": {},
+      "Emergency Imaging": {},
+      "Pediatric Radiology": {},
+      "Dental Panoramic Radiography": {}
+    },
+    "Advanced Techniques": {
+      "Spectral Imaging": {},
+      "Diffusion Tensor Imaging": {},
+      "Hybrid Imaging Modalities (PET/CT)": {}
+    }
+  }
+}
