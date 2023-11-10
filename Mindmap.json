@@ -1,84 +1,71 @@
 {
   "Radiology": {
     "X-rays": {
-      "Fracture Detection": {},
-      "Chest Radiography": {
-        "Lung Diseases": {},
-        "Heart Size and Shape Assessment": {}
-      },
-      "Dental Imaging": {},
-      "Barium Studies": {
-        "Gastrointestinal Tract Examination": {}
-      }
+      "Fracture Detection": "AI algorithms can automatically identify and classify fractures.",
+      "Chest Radiography": "Machine learning aids in detecting lung diseases and cardiac abnormalities.",
+      "Dental Imaging": "AI assists in analyzing tooth and bone structures.",
+      "Barium Studies": "Image enhancement and abnormality detection in the gastrointestinal tract using AI."
     },
     "Computed Tomography (CT)": {
-      "Cancer Detection": {},
-      "Internal Injury Assessment": {},
-      "Brain Abnormalities": {},
-      "Vascular Diseases": {
-        "Pulmonary Embolisms": {},
-        "Aortic Aneurysms": {}
-      },
-      "3D Reconstruction for Surgical Planning": {}
+      "Cancer Detection": "Deep learning for tumor identification and staging.",
+      "Internal Injury Assessment": "AI-assisted analysis of internal injuries and trauma.",
+      "Brain Abnormalities": "Machine learning for identification of neurological disorders.",
+      "Vascular Diseases": "Automated analysis for vascular anomalies using AI.",
+      "3D Reconstruction for Surgical Planning": "AI for optimized 3D visualization and surgical planning."
     },
     "Magnetic Resonance Imaging (MRI)": {
-      "Brain and Spinal Cord Imaging": {},
-      "Musculoskeletal Disorders": {},
-      "Soft Tissue Evaluation": {},
-      "Functional MRI for Brain Activity Mapping": {},
-      "Cardiac MRI for Heart Conditions": {}
+      "Brain and Spinal Cord Imaging": "ML for detecting neurological changes and abnormalities.",
+      "Musculoskeletal Disorders": "AI for joint and tissue abnormality analysis.",
+      "Soft Tissue Evaluation": "Automated soft tissue differentiation using AI.",
+      "Functional MRI for Brain Activity Mapping": "Deep learning for analyzing brain function and activity.",
+      "Cardiac MRI for Heart Conditions": "AI-based cardiac function assessment and analysis."
     },
     "Ultrasound": {
-      "Pregnancy and Obstetrics": {},
-      "Organ Functionality": {},
-      "Blood Flow and Vascular Studies": {},
-      "Musculoskeletal Injuries": {},
-      "Pediatric Imaging": {}
+      "Pregnancy and Obstetrics": "Automated fetal measurement and health assessment with AI.",
+      "Organ Functionality": "Machine learning for organ health and functionality analysis.",
+      "Blood Flow and Vascular Studies": "AI for analyzing vascular structure and blood flow.",
+      "Musculoskeletal Injuries": "Automated injury identification and assessment using AI.",
+      "Pediatric Imaging": "AI for child-specific diagnosis and imaging analysis."
     },
     "Positron Emission Tomography (PET)": {
-      "Cancer Metabolism and Staging": {},
-      "Neurological Disorders": {
-        "Alzheimer’s Disease": {},
-        "Epilepsy": {}
-      },
-      "Cardiac Functionality": {},
-      "Inflammation and Infection Imaging": {}
+      "Cancer Metabolism and Staging": "AI for enhanced tumor characterization and metabolic analysis.",
+      "Neurological Disorders": "Machine learning for advanced analysis of brain disorders like Alzheimer’s and Epilepsy.",
+      "Cardiac Functionality": "AI in assessing cardiac disease and functionality.",
+      "Inflammation and Infection Imaging": "Automated detection of inflammation and infections."
     },
     "Nuclear Medicine Imaging": {
-      "Thyroid Disorders": {},
-      "Bone Scans": {
-        "Cancer Metastasis Detection": {}
-      },
-      "Functional Cardiac Assessment": {},
-      "Renal Function Studies": {}
+      "Thyroid Disorders": "Machine learning for thyroid function and disorder analysis.",
+      "Bone Scans": "AI for detecting cancer metastasis in bone scans.",
+      "Functional Cardiac Assessment": "AI-assisted cardiac imaging for functional assessment.",
+      "Renal Function Studies": "AI for kidney function assessment and analysis."
     },
     "Mammography": {
-      "Breast Cancer Screening": {},
-      "Diagnostic Imaging for Breast Conditions": {},
-      "Digital Tomosynthesis": {}
+      "Breast Cancer Screening": "Deep learning for early tumor detection in breast cancer screening.",
+      "Diagnostic Imaging for Breast Conditions": "AI for detailed breast tissue analysis.",
+      "Digital Tomosynthesis": "AI-enhanced 3D breast imaging and analysis."
     },
     "Fluoroscopy": {
-      "Gastrointestinal Tract Imaging": {},
-      "Angiography": {},
-      "Guided Therapeutic Procedures": {},
-      "Dynamic Movement Studies": {}
+      "Gastrointestinal Tract Imaging": "AI for real-time abnormality detection during imaging.",
+      "Angiography": "AI in identifying vascular anomalies during angiography.",
+      "Guided Therapeutic Procedures": "Machine learning assistance in planning and executing therapeutic procedures.",
+      "Dynamic Movement Studies": "AI for kinematic analysis in dynamic movement studies."
     },
     "Interventional Radiology": {
-      "Angioplasty and Stent Placement": {},
-      "Tumor Embolization": {},
-      "Biopsies and Drainages": {},
-      "Varicose Vein Treatments": {}
+      "Angioplasty and Stent Placement": "AI for optimizing procedures like angioplasty and stent placement.",
+      "Tumor Embolization": "AI for targeting and efficacy analysis in tumor embolization.",
+      "Biopsies and Drainages": "Machine learning for precision guidance during biopsies and drainages.",
+      "Varicose Vein Treatments": "AI for treatment planning and outcome prediction in varicose vein treatments."
     },
     "Radiography": {
-      "Orthopedic Imaging": {},
-      "Emergency Imaging": {},
-      "Pediatric Radiology": {},
-      "Dental Panoramic Radiography": {}
+      "Orthopedic Imaging": "AI for bone structure analysis and orthopedic diagnostics.",
+      "Emergency Imaging": "Rapid AI-assisted diagnosis in emergency settings.",
+      "Pediatric Radiology": "Child-specific AI diagnostic tools for pediatric imaging.",
+      "Dental Panoramic Radiography": "AI for comprehensive dental evaluation and analysis."
     },
     "Advanced Techniques": {
-      "Spectral Imaging": {},
-      "Diffusion Tensor Imaging": {},
-      "Hybrid Imaging Modalities (PET/CT)": {}
+      "Spectral Imaging": "AI for enhanced spectral data interpretation in advanced imaging.",
+      "Diffusion Tensor Imaging": "Machine learning for brain connectivity analysis using diffusion tensor imaging.",
+      "Hybrid Imaging Modalities (PET/CT)": "AI for integrated analysis in hybrid imaging modalities."
     }
   }
 }
